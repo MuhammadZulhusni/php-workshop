@@ -62,7 +62,7 @@ if(isset($_POST["search"]) ){
 <video src="vd/register.mp4" autoplay loop muted playsinline></video>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container-fluid">
-            <a class="btn btn-primary" href="index.php">Student Management</a>
+            <a class="btn btn-primary" href="index.php">Student management</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
