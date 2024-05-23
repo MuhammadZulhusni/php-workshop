@@ -1,5 +1,3 @@
-<!-- NEXT CREATE PDF REPORTING & Style lebih proper -->
-
 <!-- index page for admin purpose -->
 <!-- guna MySQLi for connection -->
 <!-- Using function -->
