@@ -6,8 +6,6 @@ Welcome to the PHP Workshop repository! Here, I practice covering various PHP pr
 
 ## Topics Covered
 
-In this repository, you'll explore the following PHP topics:
-
 - **Basic Structure:** Understand the fundamental structure of PHP scripts. ✅
 - **Arrays:** Learn how to work with indexed arrays and associative arrays. ✅
 - **Form Handling:** Explore handling form data using both GET and POST methods. ✅
