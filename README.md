@@ -26,7 +26,7 @@ Welcome to the PHP Workshop repository! Here, I practice covering various PHP pr
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/zulhusni2003/php-workshop.git
+   git clone https://github.com/MuhammadZulhusni/php-workshop.git
    ```
 2. **Navigate to the Repository:**
    ```bash
